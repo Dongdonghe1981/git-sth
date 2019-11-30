@@ -5,7 +5,7 @@ git相关知识
 git config --global user.name "Dongdonghe1981"
 
 ### 设置用户邮箱
-git config --global user.email "43654280@qq.com"
+git config --global user.email "xxxxx@xxxx.com"
 
 该设置在github仓库主页显示谁提交了该文件
 
